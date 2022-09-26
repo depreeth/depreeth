@@ -40,15 +40,15 @@
 <br></br>
 <br></br>
 
-<img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=dhaivatv&" alt="depreeth" />
+<img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=depreeth&" alt="depreeth" />
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=depreeth&show_icons=true&locale=en&layout=compact" alt="depreeth" /></p>
 <br></br>
 <br></br>
 <br></br>
 <br></br>
-<br></br>
 
-<img align="left" alt="coding" width=295 height=300 src="https://github.com/depreeth/depreeth/blob/main/75300-process-01-whoooa.gif">
+
+<img align="left" alt="coding" width=295 height=300 src="https://github.com/depreeth/depreeth/blob/main/75298-graphs-statistics-02-whoooa.gif">
  
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=depreeth&show_icons=true&locale=en" alt="depreeth" /></p>
 <p></p>
