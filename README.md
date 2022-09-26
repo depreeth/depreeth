@@ -1,3 +1,4 @@
+<!-- ![MainHead](https://github.com/depreeth/depreeth/blob/main/95387-developer-2.gif)  -->
 <h1 align="center">Hi 👋, I'm Depreeth Raghu Chavala</h1>
 <h3 align="center">A passionate frontend developer and learning to become a expert Full Stack Developer</h3>
 
@@ -23,7 +24,8 @@
 - 📫 How to reach me **depreethc@gmail.com**
 
 - ⚡ Fun fact **I think I am Workaholic**
-
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/depreeth-chavala-78a901239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/depreeth-chavala-78a901239/" height="30" width="40" /></a>
@@ -46,7 +48,7 @@
 <br></br>
 <br></br>
 
-<img align="left" alt="coding" width=295 height=300 src="https://github.com/DhaivatV/DhaivatV/blob/main/prog.gif">
+<img align="left" alt="coding" width=295 height=300 src="https://github.com/depreeth/depreeth/blob/main/75300-process-01-whoooa.gif">
  
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=depreeth&show_icons=true&locale=en" alt="depreeth" /></p>
 <p></p>
