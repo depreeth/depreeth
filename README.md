@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Depreeth Raghu Chavala</h1>
 <h3 align="center">A passionate frontend developer and learning to become a expert Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=depreeth&label=Profile%20views&color=0e75b6&style=flat" alt="depreeth" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=depreeth&label=Profile%20views&color=0e75b6&style=flat" alt="depreeth" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=depreeth" alt="depreeth" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=depreeth" alt="depreeth" /></a> </p>
+<img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"/>
 
 - 🔭 I’m currently working on [PayMate](https://github.com/depreeth/payMate)
 
