@@ -1,12 +1,11 @@
-<img align="center" src="https://github.com/depreeth/depreeth/blob/main/computer-programming-3917226-3262953.mp4"/>
 <h1 align="center">Hi 👋, I'm Depreeth Raghu Chavala</h1>
 <h3 align="center">A passionate frontend developer and learning to become a expert Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=depreeth&label=Profile%20views&color=0e75b6&style=flat" alt="depreeth" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=depreeth" alt="depreeth" /></a> </p>
-<img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"/>
-
+<img align="right" src="https://github.com/depreeth/depreeth/blob/main/96512-developer-animation.gif"/>
+<img align="right" src="64737-connect-globe.gif"/>
 - 🔭 I’m currently working on [PayMate](https://github.com/depreeth/payMate)
 
 - 🌱 I’m currently learning **React-Native and Backend etc**
@@ -33,6 +32,6 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=depreeth&show_icons=true&locale=en&layout=compact" alt="depreeth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=depreeth&show_icons=true&locale=en" alt="depreeth" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=depreeth&show_icons=true&locale=en" alt="depreeth" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=depreeth&" alt="depreeth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=depreeth&" alt="depreeth" /></p>
