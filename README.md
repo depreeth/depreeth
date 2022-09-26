@@ -5,7 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=depreeth" alt="depreeth" /></a> </p>
 <img align="right" src="https://github.com/depreeth/depreeth/blob/main/96512-developer-animation.gif"/>
-<img align="right" src="64737-connect-globe.gif"/>
+<!-- <img align="right" src="64737-connect-globe.gif"/> -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 - 🔭 I’m currently working on [PayMate](https://github.com/depreeth/payMate)
 
 - 🌱 I’m currently learning **React-Native and Backend etc**
