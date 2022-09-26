@@ -1,3 +1,4 @@
+<img align="right" src=""/>
 <h1 align="center">Hi 👋, I'm Depreeth Raghu Chavala</h1>
 <h3 align="center">A passionate frontend developer and learning to become a expert Full Stack Developer</h3>
 
