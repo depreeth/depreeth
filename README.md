@@ -49,7 +49,8 @@
 
 
 <img align="left" alt="coding" width=295 height=300 src="https://github.com/depreeth/depreeth/blob/main/75298-graphs-statistics-02-whoooa.gif">
- 
+ <br>
+<br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=depreeth&show_icons=true&locale=en" alt="depreeth" /></p>
 <p></p>
 
